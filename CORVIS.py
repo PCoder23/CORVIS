@@ -5,6 +5,7 @@ import wikipedia
 import webbrowser
 from tkinter import *
 import time
+import random
 
 
 
